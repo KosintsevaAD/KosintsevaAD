@@ -8,6 +8,3 @@
 KosintsevaAD/KosintsevaAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Project_kosintseva_hotel_2_er-martin.pdf](https://github.com/KosintsevaAD/KosintsevaAD/files/11369942/Project_kosintseva_hotel_2_er-martin.pdf)
-[Project_kosintseva_hotel_3_er-Idef1x.pdf](https://github.com/KosintsevaAD/KosintsevaAD/files/11369943/Project_kosintseva_hotel_3_er-Idef1x.pdf)
-[Project_kosintseva_hotel_1_er-chen.pdf](https://github.com/KosintsevaAD/KosintsevaAD/files/11369944/Project_kosintseva_hotel_1_er-chen.pdf)
